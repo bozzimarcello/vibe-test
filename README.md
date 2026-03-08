@@ -322,5 +322,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 For questions or support, please contact:
-- Your Name: [your.email@example.com](mailto:your.email@example.com)
-- Project Link: [https://github.com/yourusername/auth-app](https://github.com/yourusername/auth-app)
+- Your Name: [bozzimarcello@gmail.com](mailto:your.email@example.com)
+- Project Link: [https://github.com/bozzimarcello/vibe-test](https://github.com/bozzimarcello/vibe-test)
