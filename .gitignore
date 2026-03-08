@@ -40,3 +40,6 @@ frontend/.vite/
 
 # Backend build
 backend/__pycache__/
+
+# BM
+vibe-resume.txt
