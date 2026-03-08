@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+*.env
+.env*.local
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Database
+data/
+*.sqlite
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Docker/Podman
+.Dockerfile.swp
+
+# Frontend build
+frontend/dist/
+frontend/.vite/
+
+# Backend build
+backend/__pycache__/
